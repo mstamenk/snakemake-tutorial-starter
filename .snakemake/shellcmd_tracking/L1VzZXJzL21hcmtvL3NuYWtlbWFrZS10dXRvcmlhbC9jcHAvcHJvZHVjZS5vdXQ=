@@ -1,0 +1,1 @@
+echo 'g++ -std=c++11 /Users/marko/snakemake-tutorial/cpp/src/produce.cpp -o /Users/marko/snakemake-tutorial/cpp/produce.out' &&source /Users/marko/snakemake-tutorial/scripts/setup_path.sh && g++ -std=c++11 /Users/marko/snakemake-tutorial/cpp/src/produce.cpp -o /Users/marko/snakemake-tutorial/cpp/produce.out

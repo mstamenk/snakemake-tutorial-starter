@@ -1,0 +1,1 @@
+source /Users/marko/snakemake-tutorial-starter/scripts/setup_path.sh && $PY2 /Users/marko/snakemake-tutorial-starter/python/process.py --mode Cubic --start 20 --end 100
