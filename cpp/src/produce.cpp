@@ -4,7 +4,7 @@
  * Input: --mode    : Zero, Linear, Square, Cubic
  *        --start   : initial value of the X-axis
  *        --end     : end value of the X-axis
- *        --location: path to the ressources
+ *        --location: path to the resources
  *        --saveName: name of the output filed saved
  * Output: file with the X and Y axis stored in columns saved in the specified path.
  *
@@ -51,7 +51,7 @@ int main(int argc, char *argv[]){
     int begin(0);
     int end(100);
     string mode="";
-    string location="/Users/marko/snakemake-tutorial/ressource/";   
+    string location="/Users/marko/snakemake-tutorial-starter/resource/";   
     vector<vector<int>> result;
     string saveName="";
     string filename;
