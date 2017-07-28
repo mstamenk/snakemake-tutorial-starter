@@ -19,7 +19,7 @@ loc.CPP = os.getenv("CPP") + '/'
 loc.CPPSRC = os.getenv("CPPSRC") + '/'
 loc.PYTHON = os.getenv("PYTHON") + '/'
 loc.ROUTINES = os.getenv("ROUTINES") + '/'
-loc.RESSOURCE = os.getenv("RESSOURCE") + '/'
+loc.RESOURCE = os.getenv("RESOURCE") + '/'
 loc.PLOTS = os.getenv("PLOTS") + '/'
 loc.SCRIPTS = os.getenv("SCRIPTS") + '/'
 

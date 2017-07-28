@@ -17,7 +17,7 @@ def read_file(filename):
     return xaxis, yaxis
 
 name, color = parseDatafiles(args.mode)
-filename = loc.RESSOURCE + name
+filename = loc.RESOURCE + name
 x, y = read_file(filename)
 
 plt.plot(x,y, color)

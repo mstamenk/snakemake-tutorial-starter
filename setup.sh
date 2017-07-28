@@ -25,7 +25,7 @@ export SCRIPTS=$PWD/scripts
 
 export PYTHON=$PWD/python
 
-export RESSOURCE=$PWD/ressource
+export RESOURCE=$PWD/resource
 export ROUTINES=$PWD/routines
 
 # User-sensitive way to define your project, define the folders that are not the same from one person to the other.
